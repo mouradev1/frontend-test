@@ -1,0 +1,1 @@
+export const ApiURL = 'https://frontend-test-api.digitalcreative.cn/?no-throttling=true&search=';
